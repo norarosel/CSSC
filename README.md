@@ -1,6 +1,6 @@
 # CSSCPrototype
 
-- Supported the Cancer Survivor Smart Card (CSSC) Prototype project under the EU4 Health program, developing a web-based tool for cancer affected people and survivors.
+- Supported the Cancer Survivor Smart Card (CSSC) Prototype project under the EU4 Health program, developing a web-based tool for cancer affected people and survivors, in 2023.
 
 - Collaborated with researchers at Vicomtech's Digital Health and Biomedical Technologies department.
 
